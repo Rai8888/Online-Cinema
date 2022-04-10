@@ -1,4 +1,4 @@
-Cinema-Project - single page site y GLO Academy
+Cinema-Project - Landing page by GLO Academy
 
 Built on HTML, CSS, JS and Figma.
 
