@@ -1,3 +1,5 @@
+Deploy Link: https://raiska8.github.io/Online-Cinema/
+
 Online Cinema - Landing page by GLO Academy
 
 Built on HTML, CSS, JS and Figma.
